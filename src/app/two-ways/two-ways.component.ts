@@ -18,7 +18,7 @@ export class TwoWaysComponent {
   }
 
   changeToAdam(): void {
-    this.message = 'Admin';
+    this.message = 'Adam';
     this.updateMessage;
   }
 
